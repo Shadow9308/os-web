@@ -18,13 +18,21 @@ This open-source project brings the look and feel of macOS to the web — with r
 - 🔧 **Dev-First** – Made with developers in mind, for learning, experimenting, or just geeking out.
 
 ---
+## ⚠️ Known Issues 
 
-## 🚀 Getting Started
+### UI
+VSCode is not up to date with current source code (19/04/25)
+
+### 
+
+---
+
+## 🚀 Installation
 
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/Shadow9308/os-web.git
-cd os-web
-npm install
+git clone https://github.com/Shadow9308/webOS.git
+cd webOS
+npm install 
 npm run dev
